@@ -14,10 +14,17 @@ README.md	Project documentation
 
 # ✅ Project Goals
 Want to provide Clean Dashboard to Govt officials of my village containing
-1.Total Land Extent
-2.Total Govt.Land Extent
-3.Total Patta Land Extent
-4.No of unique land owners and more
+1. **Total Land Extent**  
+   The complete geographical area under consideration.
+
+2. **Total Govt. Land Extent**  
+   Land owned by government entities.
+
+3. **Total Patta Land Extent**  
+   Privately held land with legal titles (patta).
+
+4. **Number of Unique Land Owners**  
+   Distinct individuals/entities holding land titles.
 
 Clean and understand the farm data.
 Explore key statistics and trends.
