@@ -13,18 +13,6 @@ README.md	Project documentation
 
 
 # ✅ Project Goals
-Want to provide Clean Dashboard to Govt officials of my village containing
-1. **Total Land Extent**  
-   The complete geographical area under consideration.
-
-2. **Total Govt. Land Extent**  
-   Land owned by government entities.
-
-3. **Total Patta Land Extent**  
-   Privately held land with legal titles (patta).
-
-4. **Number of Unique Land Owners**  
-   Distinct individuals/entities holding land titles.
 
 Clean and understand the farm data.
 Explore key statistics and trends.
@@ -36,13 +24,21 @@ Build an interactive dashboard for Govt officials of my village.
 
 The Power BI dashboard (Rajuplem_Farm_Dashboard.pbix) includes:
 
-Crop-wise and farmer-wise land usage.
+Want to provide Clean Dashboard to Govt officials of my village containing
+**KPIs**
+1. **Total Land Extent**  
+   The complete geographical area under consideration.
 
-Temporal trends of farming activities.
+2. **Total Govt. Land Extent**  
+   Land owned by government entities.
 
-Ownership and area distribution by land plot.
+3. **Total Patta Land Extent**  
+   Privately held land with legal titles (patta).
 
-Any anomalies or missing data handling.
+4. **Number of Unique Land Owners**  
+   Distinct individuals/entities holding land titles.
+5. **Shared Land Parcel Numbers**
+  some land part was shared between few people that also tracked as single land extent
 
 
 # 🛠️ Tools & Technologies
