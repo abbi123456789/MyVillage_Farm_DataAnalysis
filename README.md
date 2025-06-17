@@ -25,6 +25,8 @@ Build an interactive dashboard for Govt officials of my village.
 The Power BI dashboard (Rajuplem_Farm_Dashboard.pbix) includes:
 
 Want to provide Clean Dashboard to Govt officials of my village containing
+
+## Data Categories
 **KPIs**
 1. **Total Land Extent**  
    The complete geographical area under consideration.
